@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import './test.scss';
 import './App.css';
 
 class App extends Component {
@@ -9,7 +10,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edit <code>src/App.js</code> and save to reloadwew232w232ewew3.
           </p>
           <a
             className="App-link"
